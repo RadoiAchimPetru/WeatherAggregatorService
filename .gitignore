@@ -1,7 +1,19 @@
+# Visual Studio
+backend/.vs/
+.vs/
+
+# Java / Maven
 backend/target/
-frontend/node_modules/
-frontend/build/
-.idea/
 *.class
 *.iml
+
+# IntelliJ
+.idea/
+
+# React / Node
+frontend/node_modules/
+frontend/build/
+
+# OS
 Thumbs.db
+.DS_Store
