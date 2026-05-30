@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WeatherAggregatorService\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\adapter\\http\\OpenMeteoContractTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\com\\weather\\adapter\\http\\OpenMeteoContractTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\adapter\\db\\DatabaseAdapterIT.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\com\\weather\\adapter\\db\\DatabaseAdapterIT.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\domain\\WeatherServiceTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\com\\weather\\domain\\WeatherServiceTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\in\\rest\\WeatherResource.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\adapter\\in\\rest\\WeatherResource.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\db\\DatabaseAdapter.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\adapter\\out\\db\\DatabaseAdapter.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\db\\WeatherEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\adapter\\out\\db\\WeatherEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\http\\OpenMeteoAdapter.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\adapter\\out\\http\\OpenMeteoAdapter.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\service\\WeatherServiceImpl.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\domain\\service\\WeatherServiceImpl.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\in\\WeatherUseCase.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\domain\\port\\in\\WeatherUseCase.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\exception\\WatherFetchException.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\domain\\exception\\WatherFetchException.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\exception\\CityNotFoundException.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\domain\\exception\\CityNotFoundException.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherProvider.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherProvider.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherRepository.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherRepository.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\pom.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pom.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\model\\WeatherReading.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\weather\\domain\\model\\WeatherReading.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenMeteoContractTest.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\adapter\\http\\OpenMeteoContractTest.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\com\\weather\\adapter\\http\\OpenMeteoContractTest.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\adapter\\http\\OpenMeteoContractTest.java",
+              "RelativeToolTip": "src\\test\\java\\com\\weather\\adapter\\http\\OpenMeteoContractTest.java",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T13:03:16.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseAdapterIT.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\adapter\\db\\DatabaseAdapterIT.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\com\\weather\\adapter\\db\\DatabaseAdapterIT.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\adapter\\db\\DatabaseAdapterIT.java",
+              "RelativeToolTip": "src\\test\\java\\com\\weather\\adapter\\db\\DatabaseAdapterIT.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T13:02:35.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherServiceTest.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\domain\\WeatherServiceTest.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\com\\weather\\domain\\WeatherServiceTest.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\test\\java\\com\\weather\\domain\\WeatherServiceTest.java",
+              "RelativeToolTip": "src\\test\\java\\com\\weather\\domain\\WeatherServiceTest.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T13:02:18.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherResource.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\in\\rest\\WeatherResource.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\adapter\\in\\rest\\WeatherResource.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\in\\rest\\WeatherResource.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\adapter\\in\\rest\\WeatherResource.java",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:59:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseAdapter.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\db\\DatabaseAdapter.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\adapter\\out\\db\\DatabaseAdapter.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\db\\DatabaseAdapter.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\adapter\\out\\db\\DatabaseAdapter.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:58:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherEntity.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\db\\WeatherEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\adapter\\out\\db\\WeatherEntity.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\db\\WeatherEntity.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\adapter\\out\\db\\WeatherEntity.java",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:58:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpenMeteoAdapter.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\http\\OpenMeteoAdapter.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\adapter\\out\\http\\OpenMeteoAdapter.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\adapter\\out\\http\\OpenMeteoAdapter.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\adapter\\out\\http\\OpenMeteoAdapter.java",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:57:40.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherServiceImpl.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\service\\WeatherServiceImpl.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\domain\\service\\WeatherServiceImpl.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\service\\WeatherServiceImpl.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\domain\\service\\WeatherServiceImpl.java",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:57:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherUseCase.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\in\\WeatherUseCase.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\domain\\port\\in\\WeatherUseCase.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\in\\WeatherUseCase.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\domain\\port\\in\\WeatherUseCase.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:57:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WatherFetchException.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\exception\\WatherFetchException.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\domain\\exception\\WatherFetchException.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\exception\\WatherFetchException.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\domain\\exception\\WatherFetchException.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:55:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CityNotFoundException.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\exception\\CityNotFoundException.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\domain\\exception\\CityNotFoundException.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\exception\\CityNotFoundException.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\domain\\exception\\CityNotFoundException.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:55:08.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherRepository.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherRepository.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherRepository.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherRepository.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherRepository.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:54:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherProvider.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherProvider.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherProvider.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherProvider.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\domain\\port\\out\\WeatherProvider.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:54:25.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pom.xml",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\pom.xml",
+              "RelativeDocumentMoniker": "pom.xml",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\pom.xml",
+              "RelativeToolTip": "pom.xml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-30T12:52:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherReading.java",
+              "DocumentMoniker": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\model\\WeatherReading.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\weather\\domain\\model\\WeatherReading.java",
+              "ToolTip": "D:\\WeatherAggregatorService\\backend\\src\\main\\java\\com\\weather\\domain\\model\\WeatherReading.java",
+              "RelativeToolTip": "src\\main\\java\\com\\weather\\domain\\model\\WeatherReading.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-30T12:51:59.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
