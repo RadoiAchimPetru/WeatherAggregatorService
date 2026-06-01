@@ -9,6 +9,8 @@ on:
 jobs:
   backend-test:
     name: Backend (Quarkus & Testcontainers)
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     runs-on: ubuntu-latest
 
     steps:
@@ -33,6 +35,8 @@ jobs:
 
   frontend-test:
     name: Frontend (React & Jest)
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     runs-on: ubuntu-latest
 
     steps:
