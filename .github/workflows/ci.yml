@@ -28,6 +28,7 @@ jobs:
       - name: Run Backend Test Suite
         run: |
           cd backend
+          chmod +x mvnw
           ./mvnw clean test
 
   frontend-test:
