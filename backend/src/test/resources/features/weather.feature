@@ -22,4 +22,4 @@ Feature: Weather Aggregator Service
     Given the Open-Meteo API returns no results for "CiudadInventada"
     When I POST to "/weather/fetch?city=CiudadInventada"
     Then the response status is 404
-    And the response contains "nu a fost găsit"
+    And the response contains "not found"

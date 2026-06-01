@@ -23,7 +23,7 @@ public class WeatherResource {
     public Response fetchWeather(@QueryParam("city") String city) {
         if (city == null || city.isBlank()) {
             return Response.status(400)
-                           .entity("{\"error\": \"Parametrul city este obligatoriu\"}")
+                           .entity("{\"error\": \"City parameter is mandatory\"}")
                            .build();
         }
         try {
@@ -34,9 +34,10 @@ public class WeatherResource {
                            .entity("{\"error\": \"" + e.getMessage() + "\"}")
                            .build();
         } catch (WeatherFetchException e) {
+            e.printStackTrace();
             return Response.status(502)
-                           .entity("{\"error\": \"API extern indisponibil\"}")
-                           .build();
+                    .entity("{\"error\": \"" + e.getMessage() + "\"}")
+                    .build();
         }
     }
 
@@ -58,7 +59,7 @@ public class WeatherResource {
         return weatherUseCase.getLatestReading(city)
             .map(r -> Response.ok(toDto(r)).build())
             .orElse(Response.status(404)
-                            .entity("{\"error\": \"Nicio lectură găsită\"}")
+                            .entity("{\"error\": \"Nothing found\"}")
                             .build());
     }
 
